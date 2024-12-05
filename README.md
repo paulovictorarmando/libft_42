@@ -9,8 +9,8 @@ The **Libft** project involves recreating some of the standard C library functio
 ## 🚀 Use
 ### 1. Clone the Repository
 ```
-git clone https://github.com/paulovictorarmando/libft.git
-cd libft
+git clone https://github.com/paulovictorarmando/libft_42.git
+cd libft_42
 ```
 ### 2.Build the Library
 Use the Makefile to compile the source files and generate the libft.a static library:
